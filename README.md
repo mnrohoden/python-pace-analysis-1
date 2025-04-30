@@ -1,4 +1,5 @@
 Programa para graficar en barras el pace (ritmo) de una sesión de entrenamiento de carrera (trote) 
+Versión 1.0
 
 Se usa las librerías: pandas, matplotlib y numpy
 
